@@ -41,6 +41,9 @@ def signup():
         if ' ' in username:
             error = 'Username should not contain spaces'
             return render_template('signup.html', error=error)
+        if len(password)< 6:
+            error="length must be greater than 6 characters"
+            return render_template('signup.html', error=error)
         if password != confirm_password:
             error = "Passwords do not match"
             return render_template('signup.html', error=error)
