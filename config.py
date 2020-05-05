@@ -1,8 +1,8 @@
 import os
 
-from dotenv import load_dotenv as ld
+# from dotenv import load_dotenv as ld
 
-ld()
+# ld()
 
 
 class Config:
