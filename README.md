@@ -6,8 +6,8 @@
 > Kafrika Benitah.
 
 ## Screenshots
-<img src="">
-<img src="">
+<img src="https://github.com/kaphie/1m-Pitch/blob/master/app/static/assets/screencapture-pitch1m-herokuapp-2020-05-05-14_27_41.png">
+<img src="https://github.com/kaphie/1m-Pitch/blob/master/app/static/assets/screencapture-pitch1m-herokuapp-login-2020-05-05-14_35_51.png">
 
 
 ## Installations
